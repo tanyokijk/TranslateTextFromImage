@@ -13,8 +13,8 @@ using System.Text;
 class Program
 {
 
-    private static readonly string endpoint = "https://computer-vision-dev-cus.cognitiveservices.azure.com/"; // Вкажіть ваш endpoint
-    private static readonly string apiKey = "c5d19c144d534d8ea53637dc519027d0"; // Вкажіть ваш API ключ
+    private static readonly string endpoint = "https://computer-vision-dev-cus.cognitiveservices.azure.com/";
+    private static readonly string apiKey = "c5d19c144d534d8ea53637dc519027d0";
 
     public static async Task Main(string[] args)
     {
